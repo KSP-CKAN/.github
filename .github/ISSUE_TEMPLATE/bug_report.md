@@ -33,8 +33,8 @@ Problem
 
 
 
-**CKAN error code (if applicable):**<details><summary>Click to expand</summary>
+**CKAN error code (if applicable):**
+
 ```
 PLACE CODE HERE !
 ```
-</details>
