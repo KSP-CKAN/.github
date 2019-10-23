@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve CKAN
-title: "[Bug]"
+title: "[Bug] <Briefly summarize your issue here>"
 labels: Bug
 assignees: ''
 
