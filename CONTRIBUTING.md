@@ -169,7 +169,7 @@ Thanks! :heart: :heart: :heart:
 
 The CKAN Team
 
-[1]: https://github.com/KSP-CKAN/CKAN/blob/master/.github/CODE_OF_CONDUCT.md
+[1]: https://github.com/KSP-CKAN/.github/blob/master/CODE_OF_CONDUCT.md
 [2]: https://github.com/KSP-CKAN/CKAN/issues
 [3]: https://github.com/KSP-CKAN/CKAN/blob/master/LICENSE.md
 [4]: https://creativecommons.org/publicdomain/zero/1.0/
