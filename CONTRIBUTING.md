@@ -23,7 +23,7 @@ The following is a set of guidelines for contributing to the Comprehensive Kerba
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [CKAN Code of Conduct][1]. By participating, you are expected to uphold this code. Please report unacceptable behavior to mykdowling@gmail.com.
+This project and everyone participating in it is governed by the [CKAN Code of Conduct][1]. By participating, you are expected to uphold this code. Please report unacceptable behavior to Myk Dowling at politas@gmail.com.
 
 ## Reporting issues
 ### Reporting a bug
