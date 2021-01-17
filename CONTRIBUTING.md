@@ -81,19 +81,49 @@ $ cd CKAN
 $ git checkout -b new_branch
 ``` 
 
-* Add a folder for your own language, for example: ` GUI/Localization/it-IT` for Italian.
+* Duplicate `GUI/Properties/Resources.resx` for your language, for example: `GUI/Properties/Resources.it-IT.resx` for Italian.
 
-* Copy the contents of ` GUI/Localization/en-US` into your own language folder.
+* Add a folder for your own language, for example: `GUI/Localization/it-IT` for Italian.
 
-* Rename the files from `en-US` to `it-IT`.
+* Copy these `.resx` files to your language folder and rename them according to your language, ending with `.it-IT.resx` for Italian:
+
+  - GUI/Controls/EditModSearchDetails.resx
+  - GUI/Controls/EditModpack.resx
+  - GUI/Controls/AllModVersions.resx
+  - GUI/Controls/ManageMods.resx
+  - GUI/Controls/ChooseRecommendedMods.resx
+  - GUI/Controls/ModInfo.resx
+  - GUI/Controls/EditModSearch.resx
+  - GUI/Controls/HintTextBox.resx
+  - GUI/Controls/Changeset.resx
+  - GUI/Controls/ChooseProvidedMods.resx
+  - GUI/Controls/Wait.resx
+  - GUI/Controls/DeleteDirectories.resx
+  - GUI/Main/Main.resx
+  - GUI/Dialogs/CompatibleGameVersionsDialog.resx
+  - GUI/Dialogs/EditLabelsDialog.resx
+  - GUI/Dialogs/NewUpdateDialog.resx
+  - GUI/Dialogs/AboutDialog.resx
+  - GUI/Dialogs/SettingsDialog.resx
+  - GUI/Dialogs/NewRepoDialog.resx
+  - GUI/Dialogs/ErrorDialog.resx
+  - GUI/Dialogs/RenameInstanceDialog.resx
+  - GUI/Dialogs/YesNoDialog.resx
+  - GUI/Dialogs/PluginsDialog.resx
+  - GUI/Dialogs/GameCommandLineOptionsDialog.resx
+  - GUI/Dialogs/CloneFakeGameDialog.resx
+  - GUI/Dialogs/SelectionDialog.resx
+  - GUI/Dialogs/AskUserForAutoUpdatesDialog.resx
+  - GUI/Dialogs/ManageGameInstancesDialog.resx
 
 * Start translating the files.
 
 **Translations we already have:**
 
+* English (GB/AU)
 * English (US)
-* English (AU)
 * German
+* Simplified Chinese
 
 ## Creating pull requests
 
