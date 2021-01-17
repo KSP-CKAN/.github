@@ -85,8 +85,9 @@ $ git checkout -b new_branch
 
 * Add a folder for your own language, for example: `GUI/Localization/it-IT` for Italian.
 
-* Copy these `.resx` files to your language folder and rename them according to your language, ending with `.it-IT.resx` for Italian:
+* Copy these `.resx` files to your language folder and rename them according to your language, for example: ending with `.it-IT.resx` for Italian:
 
+  - GUI/Main/Main.resx
   - GUI/Controls/EditModSearchDetails.resx
   - GUI/Controls/EditModpack.resx
   - GUI/Controls/AllModVersions.resx
@@ -99,7 +100,6 @@ $ git checkout -b new_branch
   - GUI/Controls/ChooseProvidedMods.resx
   - GUI/Controls/Wait.resx
   - GUI/Controls/DeleteDirectories.resx
-  - GUI/Main/Main.resx
   - GUI/Dialogs/CompatibleGameVersionsDialog.resx
   - GUI/Dialogs/EditLabelsDialog.resx
   - GUI/Dialogs/NewUpdateDialog.resx
