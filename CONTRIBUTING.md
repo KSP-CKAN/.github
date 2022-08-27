@@ -72,7 +72,7 @@ All user visible strings in CKAN are internationalized for translation into any 
 1. Register and log in to https://crowdin.com/project/ckan
 2. If your language is already there, click to edit it, otherwise click "Languages" to add it
 3. See https://support.crowdin.com/online-editor/ help with editing your translation
-4. When you're done, please stop by [our Discord](https://discord.gg/Mb4nXQD) and tell us about your changes so know to import them (we don't have automatic notifications for this)
+4. When you're done, please stop by [our Discord](https://discord.gg/Mb4nXQD) and tell us about your changes so we know to import them (we don't have automatic notifications for this)
 
 ## Creating pull requests
 
