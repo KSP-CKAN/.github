@@ -70,7 +70,7 @@ After applying their branch, test it out! Comment on the GitHub issue to apply s
 All user visible strings in CKAN are internationalized for translation into any language. We are happy to have people volunteer to translate with us. Just follow these steps:
 
 1. Register and log in to https://crowdin.com/project/ckan
-2. If your language is already there, click to edit it, otherwise click "Languages" to add it
+2. If your language is already there, click to edit it, otherwise stop by [our Discord](https://discord.gg/Mb4nXQD) and ask us to add it
 3. See https://support.crowdin.com/online-editor/ help with editing your translation
 4. When you're done, please stop by [our Discord](https://discord.gg/Mb4nXQD) and tell us about your changes so we know to import them (we don't have automatic notifications for this)
 
