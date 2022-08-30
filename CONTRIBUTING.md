@@ -67,63 +67,12 @@ After applying their branch, test it out! Comment on the GitHub issue to apply s
 
 ## Translating
 
-We recently started working on translating CKAN and are happy to have people volunteer to translate with us. Just follow these steps:
+All user visible strings in CKAN are internationalized for translation into any language. We are happy to have people volunteer to translate with us. Just follow these steps:
 
-* Fork this repository by clicking on the 'Fork' button on the top of this page.
-
-* Click on the green 'Clone' button and copy the link.
-
-* Open a terminal and run following code:
-
-```
-$ git clone https://github.com/YourName/CKAN.git
-$ cd CKAN
-$ git checkout -b new_branch
-``` 
-
-* Duplicate `GUI/Properties/Resources.resx` for your language, for example: `GUI/Properties/Resources.it-IT.resx` for Italian.
-
-* Add a folder for your own language, for example: `GUI/Localization/it-IT` for Italian.
-
-* Copy these `.resx` files to your language folder and rename them according to your language, for example: ending with `.it-IT.resx` for Italian:
-
-  - GUI/Main/Main.resx
-  - GUI/Controls/EditModSearchDetails.resx
-  - GUI/Controls/EditModpack.resx
-  - GUI/Controls/AllModVersions.resx
-  - GUI/Controls/ManageMods.resx
-  - GUI/Controls/ChooseRecommendedMods.resx
-  - GUI/Controls/ModInfo.resx
-  - GUI/Controls/EditModSearch.resx
-  - GUI/Controls/HintTextBox.resx
-  - GUI/Controls/Changeset.resx
-  - GUI/Controls/ChooseProvidedMods.resx
-  - GUI/Controls/Wait.resx
-  - GUI/Controls/DeleteDirectories.resx
-  - GUI/Dialogs/CompatibleGameVersionsDialog.resx
-  - GUI/Dialogs/EditLabelsDialog.resx
-  - GUI/Dialogs/NewUpdateDialog.resx
-  - GUI/Dialogs/AboutDialog.resx
-  - GUI/Dialogs/SettingsDialog.resx
-  - GUI/Dialogs/NewRepoDialog.resx
-  - GUI/Dialogs/ErrorDialog.resx
-  - GUI/Dialogs/RenameInstanceDialog.resx
-  - GUI/Dialogs/YesNoDialog.resx
-  - GUI/Dialogs/PluginsDialog.resx
-  - GUI/Dialogs/GameCommandLineOptionsDialog.resx
-  - GUI/Dialogs/CloneFakeGameDialog.resx
-  - GUI/Dialogs/SelectionDialog.resx
-  - GUI/Dialogs/AskUserForAutoUpdatesDialog.resx
-  - GUI/Dialogs/ManageGameInstancesDialog.resx
-
-* Start translating the files.
-
-**Translations we already have:**
-
-* English (GB/AU)
-* English (US)
-* German
-* Simplified Chinese
+1. Register and log in to https://crowdin.com/project/ckan
+2. If your language is already there, click to edit it, otherwise stop by [our Discord](https://discord.gg/Mb4nXQD) and ask us to add it
+3. See https://support.crowdin.com/online-editor/ help with editing your translation
+4. When you're done, please stop by [our Discord](https://discord.gg/Mb4nXQD) and tell us about your changes so we know to import them (we don't have automatic notifications for this)
 
 ## Creating pull requests
 
