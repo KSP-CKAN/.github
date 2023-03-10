@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+<!--
+
+**NOTE: If you are using the CKAN accelerator service in China, please report issues here instead:**
+
+https://git.kerbcat.cn/KerbCat-CN/CKAN-Accelerator/issues
+
+-->
+
 Background
 ----------
 * Operating System: 
