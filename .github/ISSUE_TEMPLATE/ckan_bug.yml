@@ -1,0 +1,80 @@
+name: Bug report
+description: Create a report to help us improve CKAN
+title: "[Bug]: "
+labels: [Bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        NOTE: If you are using the CKAN accelerator service in China, please report issues here instead:
+        https://git.kerbcat.cn/KerbCat-CN/CKAN-Accelerator/issues
+
+  - type: checkboxes
+    id: checked-issues
+    attributes:
+      label: Is there an existing issue for this?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+        - label: I have searched the existing issues
+          required: true
+
+  - type: input
+    id: operating-system
+    attributes:
+      label: Operating System
+      description: What type of operating system are you running?
+    validations:
+      required: true
+
+  - type: input
+    id: ckan-version
+    attributes:
+      label: CKAN Version
+      description: What version of CKAN are you running?
+    validations:
+      required: true
+
+  - type: input
+    id: ksp-version
+    attributes:
+      label: KSP Version
+      description: What version of KSP are you running?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: modifications
+    attributes:
+      label: Did you make manual changes?
+      description: Have you made any manual changes to your GameData folder (i.e., not via CKAN)?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Describe the bug
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Describe the steps you've taken to reproduce the bug.
+      placeholder: Tell us what you did!
+      value: "* Go to...\r\n* Click on...\r\n* See error"
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
