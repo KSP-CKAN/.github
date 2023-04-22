@@ -46,7 +46,7 @@ body:
     id: modifications
     attributes:
       label: Did you make any manual changes to your game folder (i.e., not via CKAN)?
-      description: If so, please describe what you did:
+      description: If so, please describe what you did
 
   - type: textarea
     id: what-happened
@@ -62,8 +62,7 @@ body:
     attributes:
       label: Steps to reproduce
       description: Describe the steps you've taken to reproduce the bug.
-      placeholder: Tell us what you did!
-      value: "* Go to...\r\n* Click on...\r\n* See error"
+      placeholder: "* Go to...\r\n* Click on...\r\n* See error"
     validations:
       required: true
 
