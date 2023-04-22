@@ -42,16 +42,11 @@ body:
     validations:
       required: true
 
-  - type: dropdown
+  - type: textarea
     id: modifications
     attributes:
-      label: Did you make manual changes?
-      description: Have you made any manual changes to your GameData folder (i.e., not via CKAN)?
-      options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true
+      label: Did you make any manual changes to your game folder (i.e., not via CKAN)?
+      description: If so, please describe what you did:
 
   - type: textarea
     id: what-happened
