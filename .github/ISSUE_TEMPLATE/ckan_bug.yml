@@ -39,11 +39,23 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: games
+    attributes:
+      label: Games
+      multiple: true
+      options:
+        - Kerbal Space Program
+        - Kerbal Space Program 2
+      description: Which games are you playing?
+    validations:
+      required: true
+
   - type: input
     id: game-version
     attributes:
       label: Game Version
-      description: What game and version are you running?
+      description: Which game versions are you running?
     validations:
       required: true
 
