@@ -45,8 +45,8 @@ body:
       label: Games
       multiple: true
       options:
-        - Kerbal Space Program
-        - Kerbal Space Program 2
+        - KSP 1
+        - KSP 2
       description: Which games are you playing?
     validations:
       required: true
