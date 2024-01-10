@@ -3,6 +3,10 @@ description: Suggest a mod to be added to CKAN
 title: "[Mod]: "
 labels: [Mod-request]
 body:
+  - type: markdown
+    attributes:
+      value: **NOTE**: If you are the mod author and your mod is on SpaceDock, please check the "add to CKAN" button there instead of using this form.
+
   - type: input
     id: mod-name
     attributes:
