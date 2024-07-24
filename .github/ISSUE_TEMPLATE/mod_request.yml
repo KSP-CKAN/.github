@@ -1,7 +1,7 @@
 name: Mod request
 description: Suggest a mod to be added to CKAN
 title: "[Mod]: "
-labels: [Mod-request]
+labels: [Mod request]
 body:
   - type: markdown
     attributes:
