@@ -74,15 +74,11 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-Myk Dowling, Mission Director.
+**DasSkelett**, Mission Director.
 
-IRC: politas on [irc.esper.net](https://esper.net)
+KSP forums: [DasSkelett](https://forum.kerbalspaceprogram.com/profile/188118-dasskelett/)
 
-Twitter: [@mykdowling](https://twitter.com/mykdowling)
-
-KSP forums: [politas](https://forum.kerbalspaceprogram.com/index.php?/profile/119649-politas/)
-
-Email: politas@gmail.com
+Discord: <https://discord.gg/Mb4nXQD>
 
 ## 11. License and attribution
 
