@@ -90,6 +90,10 @@ The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stump
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
+## 12. Revision History
+
+_Revision 2.4. Posted 17 September 2024._
+
 _Revision 2.3. Posted 6 March 2017._
 
 _Revision 2.2. Posted 4 February 2016._
