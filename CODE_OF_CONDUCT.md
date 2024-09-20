@@ -2,11 +2,11 @@
 
 ## 1. Purpose
 
-A primary goal of ‬the Comprehensive Kerbal Archive Network (CKAN) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of the Comprehensive Kerbal Archive Network (CKAN) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.  The CKAN community includes CKAN users, participants in discussions and events regarding CKAN, mod authors who list their mods on CKAN, and the CKAN maintenance team.
 
-We invite all those who participate in ‬the Comprehensive Kerbal Archive Network (CKAN) to help us create safe and positive experiences for everyone.
+We invite all those who participate in the Comprehensive Kerbal Archive Network (CKAN) to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source Citizenship
 
@@ -40,8 +40,9 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Inappropriate physical contact. You should have someone's consent before touching them.
  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
  * Deliberate intimidation, stalking or following (online or in person).
+ * Sustained disruption of community events, including talks, presentations, and online discussions.
+ * Repeated failure to conform to Expected Behavior listed above.
  * Advocating for, or encouraging, any of the above behavior.
- * Sustained disruption of community events, including talks and presentations.
 
 ## 5. Weapons Policy
 
@@ -73,21 +74,21 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-Myk Dowling, Mission Director.
+**DasSkelett**, Mission Director.
 
-IRC: politas on [irc.esper.net](https://esper.net)
+KSP forums: [DasSkelett](https://forum.kerbalspaceprogram.com/profile/188118-dasskelett/)
 
-Twitter: [@mykdowling](https://twitter.com/mykdowling)
-
-KSP forums: [politas](https://forum.kerbalspaceprogram.com/index.php?/profile/119649-politas/)
-
-Email: politas@gmail.com
+Discord: <https://discord.gg/Mb4nXQD>
 
 ## 11. License and attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+## 12. Revision History
+
+_Revision 2.4. Posted 17 September 2024._
 
 _Revision 2.3. Posted 6 March 2017._
 
