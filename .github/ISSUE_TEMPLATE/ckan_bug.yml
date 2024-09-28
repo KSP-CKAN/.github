@@ -14,13 +14,15 @@ body:
     attributes:
       label: Is there an existing issue for this?
       description: |
-        Please check the recent open and closed issues (especially the ones pinned to the top!)
-        to see if an issue already exists for the problem you encountered:
+        If someone has already reported the issue you're having, then we already know about it and don't need another report.
+        If you read the discussion of the existing report, you can often find advice for how to work around problems, so it's worth checking.
+        If it's closed, then that means we've already investigated and fixed it!
+        Check the recent issues (especially the ones pinned to the top!) to see if your issue has already been reported before submitting a new one:
         - <https://github.com/KSP-CKAN/CKAN/issues?q=is%3Aissue>
         - <https://github.com/KSP-CKAN/NetKAN/issues?q=is%3Aissue>
         - <https://github.com/KSP-CKAN/KSP2-NetKAN/issues?q=is%3Aissue>
       options:
-        - label: I have searched the existing issues
+        - label: I have checked the existing issues for an existing issue. I even actually looked at the ones that are pinned to the top!
           required: true
 
   - type: input
